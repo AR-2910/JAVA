@@ -30,8 +30,8 @@ During my Java learning journey, I've relied on various tools and technologies:
 
 My Java learning experience wouldn't be complete without these valuable resources:
 
-- [Java Course-Youtube](https://www.youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ)
-- [Java Bootcamp-Github](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java)
+- [Java Course - YouTube](https://www.youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ)
+- [Java Bootcamp - Github](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java)
 - [JavaTpoint Tutorials](https://www.javatpoint.com/java-tutorial)
 
 These resources have been instrumental in building my Java expertise.
