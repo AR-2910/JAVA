@@ -12,9 +12,9 @@ Here is a list of some Java projects I've worked on to practice and apply my ski
 
 1. **Tic Tac Toe Game** 
 2. **Sudoku Solver** 
-3. **Random Quote/Password Generator**
-4. **Text-Based RPG Game**
-5. **Weather App With API Integration**
+3. **Random Quote/Password/Fun-Fact Generator**
+4. **Weather App With API Integration**
+5. **Text-Based RPG Game (Work In Progress)**
 
 These projects reflect my commitment to continuous learning and the application of Java in real-world scenarios.
 
@@ -30,9 +30,9 @@ During my Java learning journey, I've relied on various tools and technologies:
 
 My Java learning experience wouldn't be complete without these valuable resources:
 
-- (https://www.youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ)
-- (https://github.com/kunal-kushwaha/DSA-Bootcamp-Java)
-- (https://www.javatpoint.com/java-tutorial)
+- [Java Course-Youtube](https://www.youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ)
+- [Java Bootcamp-Github](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java)
+- [JavaTpoint Tutorials](https://www.javatpoint.com/java-tutorial)
 
 These resources have been instrumental in building my Java expertise.
 
