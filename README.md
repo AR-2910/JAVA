@@ -14,7 +14,7 @@ Here is a list of some Java projects I've worked on to practice and apply my ski
 2. **Sudoku Solver** 
 3. **Random Quote/Password/Fun-Fact Generator**
 4. **Weather App With API Integration**
-5. **Text-Based RPG Game (Work In Progress)**
+5. **(Work In Progress)**
 
 These projects reflect my commitment to continuous learning and the application of Java in real-world scenarios.
 
